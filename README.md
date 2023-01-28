@@ -1,5 +1,5 @@
 # Pancakeswap-Sniper-Bot-Free
-❗🏻IMPORTANT - THIS IS ORIGINAL OF PANCAKESWAP SNIPER BOT. IF YOU SEE THE SAME REPOSITORY LIKE THAT, REPORT IT, DON'T DOWNLOAD ANYTHING FROM OTHER REPOSITORIES.
+❗IMPORTANT - THIS IS ORIGINAL OF PANCAKESWAP SNIPER BOT. IF YOU SEE THE SAME REPOSITORY LIKE THAT, REPORT IT, DON'T DOWNLOAD ANYTHING FROM OTHER REPOSITORIES.
 ---
 Pancakeswap Sniper Bot based on BSC. Autobuy/sell, custom gas fee. the bot is a bit raw, but completely ready to use.
 Version is 1.2, with initial corrections and additions(I know the bug with incorrect starting of program, that's rare, but I'm workin on it.)
